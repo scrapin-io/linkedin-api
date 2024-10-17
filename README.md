@@ -22,7 +22,7 @@ Search profiles, send messages, find jobs and more in Python. No official API ac
 
 <p align="center" dir="auto" >
   <a href="https://www.scrapin.io/?utm_campaign=influencer&utm_source=github&utm_medium=social&utm_content=scrapin-io" target="_blank">
-    <img  height="60px" src="https://raw.githubusercontent.com/scrapin-io/linkedin-api/main/docs/assets/logos/scrapin.png" alt="Scrapin">
+    <img  height="300px" src="https://raw.githubusercontent.com/scrapin-io/linkedin-api/main/docs/assets/logos/scrapin.png" alt="Scrapin">
   </a>
 </p>
 
